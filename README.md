@@ -19,18 +19,6 @@ using:
 
 ---
 
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
-
 ## Machine Learning Algorithm
 
 * K-Nearest Neighbors (KNN)
