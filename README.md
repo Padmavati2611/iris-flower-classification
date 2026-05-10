@@ -106,6 +106,7 @@ Run all cells step by step.
 
 ---
 
-## Author
+## Conclusion
 
-Developed as part of Data Science Internship Project.
+The Iris Flower Classification project successfully classified flower species using Machine Learning techniques. The KNN model achieved high accuracy using the Iris dataset. This project helped in understanding data visualization, model training, prediction, and basic classification concepts in Data Science.
+
